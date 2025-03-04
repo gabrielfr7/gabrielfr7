@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Freire👋
+### Olá! Eu sou o Gabriel Freire 👋
 
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=freire.anjos08@aluno.ifce.edu.br)
 

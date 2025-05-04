@@ -1,17 +1,48 @@
+# 👩🏻‍💻 Gabriel Freire 
 
-<div align ="center">
+Me chamo Gabriel Freire, tenho 17 anos e sou estudante do curso técnico em Informática no Instituto Federal do Ceará (IFCE). Gosto de programar e estou sempre buscando aprender mais.
+ 
+---
 
-  ### Olá! Eu sou o Gabriel Freire 👋
-  
+### 🤖 Linguagens e Tecnologias
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=freire.anjos08@aluno.ifce.edu.br)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-![Freire GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfr7&show_icons=true&theme=dracula)
+<br/>
+<br/>
 
-## Tecnologias que uso no meu dia
+### 📊 Estatísticas
 
-<p align="center">
-    <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrielfr7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfr7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-</div>
 

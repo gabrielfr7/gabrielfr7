@@ -8,7 +8,7 @@
 ### 🧠 Sobre mim
 
 - 👨‍🎓 Estudante do IFCE  
-- 💻 Estudando **Desenvolvimento Web**, **POO** e **Administração de Sistemas**  
+- 💻 Estudando **Desenvolvimento Web**, **POO**, **Administração de Sistemas** e **Sistemas Embarcados**  
 - 🔍 Curioso, focado e sempre buscando evoluir  
 - 📚 Trabalhando em projetos, resolvendo desafios e aprendendo todos os dias  
 
@@ -23,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </div>
 
 ---
@@ -41,7 +39,6 @@
 
 - Email: freire.anjos08@aluno.ifce.edu.br  
 - Instagram: [@gabrieelfr_](https://instagram.com/gabrieelfr_)  
-<!-- LinkedIn: Ainda não possuo -->
 
 ---
 

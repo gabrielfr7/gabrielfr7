@@ -1,50 +1,50 @@
-# 👩🏻‍💻 Gabriel Freire 
+<!-- Perfil README para GitHub -->
 
-Me chamo Gabriel Freire, tenho 17 anos e sou estudante do curso técnico em Informática no Instituto Federal do Ceará (IFCE). Gosto de programar e estou sempre buscando aprender mais.
- 
+<h1 align="center">Olá! 👋 Eu sou o Gabriel Freire</h1>
+<p align="center">💻 Estudante de programação | 🚀 Apaixonado por tecnologia e aprendizado contínuo</p>
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<br/>
-<br/>
+- 👨‍🎓 Estudante do IFCE  
+- 💻 Estudando **Desenvolvimento Web**, **POO** e **Administração de Sistemas**  
+- 🔍 Curioso, focado e sempre buscando evoluir  
+- 📚 Trabalhando em projetos, resolvendo desafios e aprendendo todos os dias  
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielfr7&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br"
-  />
+### 🛠️ Tecnologias e Ferramentas
 
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+</div>
 
+---
 
+### 📈 Estatísticas do GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfr7&show_icons=true&theme=tokyonight"/>
+</div>
+
+---
+
+### 📬 Contato
+
+- Email: freire.anjos08@aluno.ifce.edu.br  
+- Instagram: [@gabrieelfr_](https://instagram.com/gabrieelfr_)  
+<!-- LinkedIn: Ainda não possuo -->
+
+---
+
+<div align="center">
+  🚀 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</div>

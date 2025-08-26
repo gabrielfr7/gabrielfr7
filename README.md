@@ -1,4 +1,4 @@
-<!-- Perfil README para GitHub -->
+
 
 <h1 align="center">Olá! 👋 Eu sou o Gabriel Freire</h1>
 <p align="center">💻 Estudante de programação | 🚀 Apaixonado por tecnologia e aprendizado contínuo</p>

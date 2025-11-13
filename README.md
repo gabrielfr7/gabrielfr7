@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Olá! 👋 Eu sou o Gabriel Freire</h1>
 <p align="center">💻 Estudante de programação | 🚀 Apaixonado por tecnologia e aprendizado contínuo</p>
 
@@ -20,12 +18,13 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" style="margin: 5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" style="margin: 5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" style="margin: 5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="margin: 5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse" style="margin: 5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50" alt="NetBeans" style="margin: 5px"/>
 
 </div>
-
 
 ---
 

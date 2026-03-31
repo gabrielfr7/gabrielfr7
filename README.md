@@ -6,7 +6,7 @@
 ### 🧠 Sobre mim
 
 - 👨‍🎓 Estudante do IFCE  
-- 💻 Estudando **Desenvolvimento Web**, **POO**, **Administração de Sistemas** e **Sistemas Embarcados**  
+- 💻 Estudando **Desenvolvimento Web I e II**, **POO**, **Administração de Sistemas** e **Engenharia de Software**  
 - 🔍 Curioso, focado e sempre buscando evoluir  
 - 📚 Trabalhando em projetos, resolvendo desafios e aprendendo todos os dias  
 
